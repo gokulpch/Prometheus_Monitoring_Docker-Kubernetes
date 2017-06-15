@@ -58,11 +58,11 @@ High load test alert - `docker run --rm -it busybox sh -c "while true; do :; don
 Let this run for a few minutes and you will notice the load alert appear.
 
 ## Install Dashboard
-I created a Dashboard template which is available on [Grafana Docker Dashboard](https://grafana.net/dashboards/179). Simply download the dashboard and select from the Grafana menu -> Dashboards -> Import
+Multiple Dashboard templates are available on [Grafana Docker Dashboard](https://grafana.com/dashboards/893). Simply download the dashboard and select from the Grafana menu -> Dashboards -> Import
 
 This dashboard is intended to help you get started with monitoring. If you have any changes you would like to see in the Dashboard let me know so I can update Grafana site as well.
 
-Here's the Dashboard Template
+Here are some of the Dashboard Templates
 
 ![Grafana Dashboard](https://github.com/vegasbrianc/prometheus/blob/version-2/images/Dashboard.png)
 
