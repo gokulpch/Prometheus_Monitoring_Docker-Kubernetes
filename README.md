@@ -1,4 +1,4 @@
-# A Prometheus & Grafana docker-compose stack
+# Prometheus & Grafana using Docker-Compose
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6sVZBHPiGHw0wb4BRJLgKQyE_SKo0jM2yfPHCvBBw-1dZo8w3" width="1200" heighth="1200">
 
